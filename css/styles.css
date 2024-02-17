@@ -10470,7 +10470,8 @@ input {
 @media (max-width: 991px) {
   .header nav {
     position: fixed;
-    top: -100vh;
+    top: -140vh;
+    overflow: scroll;
     padding-top: 70px;
     display: flex;
     flex-direction: column;
