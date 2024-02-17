@@ -10047,7 +10047,7 @@ img.cover {
   height: 100%;
   object-fit: cover; }
 
-input {
+.form-control,input {
   padding: 15px 30px;
   background-color: white;
   border: 1px solid #76b926;
