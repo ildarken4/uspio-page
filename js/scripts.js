@@ -77,15 +77,6 @@ sendButton.addEventListener('click', function() {
     getEmailWord.send();
 });
 
-
-
-
-
-
-
-
-
-
 // мобильное меню
 
 let menuToggler = document.querySelector('.nav-toggler');
